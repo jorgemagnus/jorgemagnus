@@ -1,4 +1,4 @@
-### Olá, eu sou o Jorge Magnus, seja bem-vindo ao meu GitHub!! 👋
+### Olá, sou Jorge Magnus e seja bem-vindo ao meu GitHub!! 👋
 
 <!--Referente ao dois quadros de status do gitHub--> 
  <div>
