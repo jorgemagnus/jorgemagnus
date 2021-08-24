@@ -15,6 +15,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jorge-Django" src="https://github.com/jorgemagnus/icones/blob/main/png/icon_django.png">
   <img align="center" alt="Jorge-Pycharm" src="https://github.com/jorgemagnus/icones/blob/main/png/icon_pycharm.png">
+  <img align="center" alt="Jorge-vsCode" src="https://github.com/jorgemagnus/icones/blob/main/png/icon_vscode.png">
 </div>
 
  ##
