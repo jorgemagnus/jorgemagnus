@@ -16,6 +16,7 @@
   <img align="center" alt="Jorge-Django" src="https://github.com/jorgemagnus/icones/blob/main/png/icon_django.png">
   <img align="center" alt="Jorge-Pycharm" src="https://github.com/jorgemagnus/icones/blob/main/png/icon_pycharm.png">
   <img align="center" alt="Jorge-vsCode" src="https://github.com/jorgemagnus/icones/blob/main/png/icon_vscode.png">
+  <img align="center" alt="Jorge-C#" src="https://github.com/jorgemagnus/icones/blob/main/png/csharp.png">
 </div>
 
  ##
