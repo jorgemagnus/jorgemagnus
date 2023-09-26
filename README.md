@@ -17,6 +17,7 @@
   <img align="center" alt="Jorge-Pycharm" src="https://github.com/jorgemagnus/icones/blob/main/png/icon_pycharm.png">
   <img align="center" alt="Jorge-vsCode" src="https://github.com/jorgemagnus/icones/blob/main/png/icon_vscode.png">
   <img align="center" alt="Jorge-C#" src="https://github.com/jorgemagnus/icones/blob/main/png/csharp.png">
+  <img align="center" alt="Jorge-Delphi#" src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png">
 </div>
 
  ##
