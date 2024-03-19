@@ -10,14 +10,14 @@
 <!--imagens do que estou estudando-->   
 <div style="display: inline_block"><br>  
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jorge-Django" src="https://github.com/jorgemagnus/icones/blob/main/png/icon_django.png">
-  <img align="center" alt="Jorge-Pycharm" src="https://github.com/jorgemagnus/icones/blob/main/png/icon_pycharm.png">
+ <!-- <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
+ <!-- <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-->
+ <!-- <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
+ <!-- <img align="center" alt="Jorge-Django" src="https://github.com/jorgemagnus/icones/blob/main/png/icon_django.png"> -->
+ <!-- <img align="center" alt="Jorge-Pycharm" src="https://github.com/jorgemagnus/icones/blob/main/png/icon_pycharm.png"> -->
   <img align="center" alt="Jorge-vsCode" src="https://github.com/jorgemagnus/icones/blob/main/png/icon_vscode.png">
   <img align="center" alt="Jorge-C#" src="https://github.com/jorgemagnus/icones/blob/main/png/csharp.png">
-  <img align="center" alt="Jorge-Delphi#" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png">
+ <!-- <img align="center" alt="Jorge-Delphi#" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png"> -->
 </div>
 
  ##
